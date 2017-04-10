@@ -19,6 +19,7 @@
     NSLog(@"welcome");
     NSLog(@"jkfdgjkgfhfkdg");
     NSLog(@"fdfgkfhkdgkhkg");
+    NSLog(@"Hello World Welcome");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
